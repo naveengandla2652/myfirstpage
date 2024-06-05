@@ -1,2 +1,2 @@
 # myfirstpage
-personal web page
+personal web page regarding naveen gandla 
